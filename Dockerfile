@@ -1,6 +1,6 @@
-FROM python:3.10.5
+FROM python:3.10
 
-WORKDIR /webx
+WORKDIR /CrazyboyOfficial
 
 COPY requirements.txt ./
 
