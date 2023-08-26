@@ -8,4 +8,4 @@ COPY . .
 
 CMD python3 main.py
 
-EXPOSE 8080
+EXPOSE 3604
