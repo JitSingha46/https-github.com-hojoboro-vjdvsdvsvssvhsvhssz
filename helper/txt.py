@@ -15,7 +15,7 @@ class mr(object):
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
 ├🌀 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://www.oracle.com/cloud/>Render</a>
-├📊 BUILD-STATUS : Python v3.10.5              
+├📊 BUILD-STATUS : Python Latest              
 ╰───────────────⍟
                                 """
     HELP_TXT = """
