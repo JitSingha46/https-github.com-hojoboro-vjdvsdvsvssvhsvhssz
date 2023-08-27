@@ -1,6 +1,6 @@
 class mr(object):
     PROGRESS_BAR = """\n
-╭━━━━❰ Crazy Renaming... ❱━➣
+╭━━━━❰ CRAZY Renaming... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
@@ -11,11 +11,11 @@ class mr(object):
 ╭───────────⍟
 ├🤖 My Name is : {}
 ├👑 CHANNEL : <a href=https://t.me/CrazyboyOfficial>CrazyboyOfficial</a> 
-├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
-├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
-├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
-├🌀 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://www.oracle.com/cloud/>Render</a>
-├📊 BUILD-STATUS : Python Latest              
+├📕 LIBRARY : <a href=https://t.me/RBMPrime_Bot>Pyrogram</a>
+├✏️ LANGUAGE : <a href=https://t.me/RBMPrime_Bot>Python</a>
+├💾 DATABASE : <a href=https://t.me/RBMPrime_Bot>Private</a>
+├🌀 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://t.me/RBMPrime_Bot>VPS</a>
+├📊 BUILD-STATUS : Python Latest             
 ╰───────────────⍟
                                 """
     HELP_TXT = """
